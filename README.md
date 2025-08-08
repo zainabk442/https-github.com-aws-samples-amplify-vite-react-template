@@ -1,0 +1,1 @@
+# https-github.com-aws-samples-amplify-vite-react-template
